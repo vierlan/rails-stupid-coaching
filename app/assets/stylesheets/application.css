@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+ input[type="text" i] {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  background-color: rgb(236, 245, 245);
+  color: aliceblue;
+  width: 300px;
+  box-shadow: 2px, 2px, 5px rgb(50, 50, 50);
+}
+
+input {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  background-color: rgb(35, 87, 87);
+  color: aliceblue;
+}
